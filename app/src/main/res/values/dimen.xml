@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!-- splash screen top layout set-->
+
+    <dimen name="splash_left">20dp</dimen>
+    <dimen name="splash_right">20dp</dimen>
+    <dimen name="splash_top">50dp</dimen>
+
+
+</resources>

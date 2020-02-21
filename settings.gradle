@@ -1,0 +1,2 @@
+include ':app',':folding-cell', ':materialsearchview'
+rootProject.name='DRO App'
